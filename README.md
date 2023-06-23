@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JackMandi
+- 👀 I’m interested in web développement
+- 🌱 I’m currently learning the JavaScript programming language
+- 💞️ I’m looking to collaborate on ...
